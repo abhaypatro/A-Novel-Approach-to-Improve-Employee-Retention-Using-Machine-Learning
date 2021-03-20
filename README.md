@@ -22,7 +22,7 @@
 ##An important thing to note -> 
 - The unavailabilty of adequete amount of data has resulted in the F1_score above, we reckon, given a large enough dataset, employee attrition could be predicted (not as a judge but a guide) with an F1_score of 0.97.
 - For the record it must also be stated that the dataset which was used to train the model above was an imbalanced dataset with only 6.7% attrition in the whole dataset
-- *We use the reverse modelling step to take the interests of the company into account too*
+- **We use the reverse modelling step to take the interests of the company into account too**
 
 ##Definitions
 - _F1_score_ -> F-score or F-measure is a measure of a test's accuracy. It is calculated from the precision and recall of the test.
