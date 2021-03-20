@@ -35,4 +35,7 @@
 - _ω ( willingness factor )_ -> A factor to find the best possible change
 - _Imbalanced dataset_ -> One set of classes dominate over another set of classes. It causes the machine learning model to be more biased towards majority class. It causes poor classification of minority classes.
 
+The minimization goal is 
+- <img src="https://latex.codecogs.com/png.latex?\inline&space;min_{for-all-possible-solutions}[\sum_{for-all-slack-variables}^{}(1-\omega)*change&space;in&space;variable]" title="min_{for-all-possible-solutions}[\sum_{for-all-slack-variables}^{}(1-\omega)*change in variable]" />
+
 
