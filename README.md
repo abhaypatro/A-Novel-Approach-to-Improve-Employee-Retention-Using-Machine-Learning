@@ -35,4 +35,4 @@
 - _ω ( willingness factor )_ -> A factor to find the best possible change
 - _Imbalanced dataset_ -> One set of classes dominate over another set of classes. It causes the machine learning model to be more biased towards majority class. It causes poor classification of minority classes.
 
-$\sum_{n=1}^{\infty} 2^{-n} = 1$ inside text
+\sum_{i=1}^{10} t_i
