@@ -1,4 +1,4 @@
-# Research - A Novel Heuristic Method to Improve Employee Retention
+# Research - A Novel Heuristic Method to Improve Employee Retention Using Machine Learning
 ## Goals
 - Create a good classifier to predict the attrition of an employee correctly
 - Use the classifier to help the company prevent further attrition by making necessary changes by using reverse modelling
