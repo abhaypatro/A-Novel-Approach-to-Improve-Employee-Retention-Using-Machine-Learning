@@ -18,6 +18,7 @@
 - Various possible changes will be found using the classifier, the one with the lowest change (least cost to the Employer) required will be the best possible solution
 - Best possible solution for the Employer to increase their retentive power
 
+## Notes
 ##An important thing to note -> 
 - The unavailabilty of adequete amount of data has resulted in the F1_score above, we reckon, given a large enough dataset, employee attrition could be predicted (not as a judge but a guide) with an F1_score of 0.97.
 - For the record it must also be stated that the dataset which was used to train the model above was an imbalanced dataset with only 6.7% attrition in the whole dataset
@@ -38,4 +39,5 @@
 The minimization goal is 
 - <img src="https://latex.codecogs.com/png.latex?\inline&space;min_{for-all-possible-solutions}[\sum_{x&space;\,\varepsilon&space;\,slackvariables&space;}^{}(1-\omega_{x})*\Delta&space;x]" title="min_{for-all-possible-solutions}[\sum_{x \,\varepsilon \,slackvariables }^{}(1-\omega_{x})*\Delta x]" />
 
+The dataset used for this research can be found [here](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
