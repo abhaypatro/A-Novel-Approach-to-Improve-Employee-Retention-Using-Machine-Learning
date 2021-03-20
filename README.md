@@ -11,3 +11,10 @@
 - Creating priority between them
 - Finding the best possible changes the company can make
 
+## Inputs 
+- Company to decide on the willingness factor ( think of a better name :) ) to change the variable on a scale of ( 0 - 100), which will be normalized so that all factors add up to 
+
+## Output
+- Various possible changes will be found using the classifier, the one with the lowest change required will be the best possible solution
+
+
