@@ -36,6 +36,6 @@
 - _Imbalanced dataset_ -> One set of classes dominate over another set of classes. It causes the machine learning model to be more biased towards majority class. It causes poor classification of minority classes.
 
 The minimization goal is 
-- <img src="https://latex.codecogs.com/png.latex?\inline&space;min_{for-all-possible-solutions}[\sum_{for-all-slack-variables}^{}(1-\omega)*change&space;in&space;variable]" title="min_{for-all-possible-solutions}[\sum_{for-all-slack-variables}^{}(1-\omega)*change in variable]" />
+- <img src="https://latex.codecogs.com/png.latex?\inline&space;min_{for-all-possible-solutions}[\sum_{x&space;\,\varepsilon&space;\,slackvariables&space;}^{}(1-\omega_{x})*\Delta&space;x]" title="min_{for-all-possible-solutions}[\sum_{x \,\varepsilon \,slackvariables }^{}(1-\omega_{x})*\Delta x]" />
 
 
