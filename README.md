@@ -40,7 +40,7 @@
 - _Imbalanced dataset_ -> One set of classes dominate over another set of classes. It causes the machine learning model to be more biased towards majority class. It causes poor classification of minority classes.
 
 The minimization goal is 
-- <img src="https://latex.codecogs.com/png.latex?\inline&space;min_{for-all-possible-solutions}[\sum_{x&space;\,\varepsilon&space;\,slackvariables&space;}^{}(1-\omega_{x})*\Delta&space;x]" title="min_{for-all-possible-solutions}[\sum_{x \,\varepsilon \,slackvariables }^{}(1-\omega_{x})*\Delta x]" />
+- <img src="https://latex.codecogs.com/gif.latex?Cost&space;of&space;change&space;for&space;employee&space;e&space;=&space;min_{for&space;all&space;possible&space;solutions}(\sum&space;_{x&space;\epsilon&space;salck&space;features&space;}(1-\omega&space;_x)*\Delta&space;x_e)" title="Cost of change for employee e = min_{for all possible solutions}(\sum _{x \epsilon salck features }(1-\omega _x)*\Delta x_e)" />
 
 The dataset used for this research can be found [here](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
