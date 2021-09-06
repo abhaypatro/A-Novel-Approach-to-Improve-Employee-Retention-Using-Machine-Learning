@@ -1,4 +1,4 @@
-# Research - A Novel Heuristic Method to Improve Employee Retention Using Machine Learning
+# Research - A Novel Method to Improve Employee Retention Using Machine Learning
 
 Our research paper was presented in the International Conference on Communication Systems and Network Technologies (CSNT) 2021 and can be found here [here](https://ieeexplore.ieee.org/document/9509601)
 
