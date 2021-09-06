@@ -1,5 +1,7 @@
 # Research - A Novel Heuristic Method to Improve Employee Retention Using Machine Learning
 
+Our research paper was presented in the International Conference on Communication Systems and Network Technologies (CSNT) 2021 and can be found here [here](https://ieeexplore.ieee.org/document/9509601)
+
 ## Ideas
 - Tradeoff between attrition rate and cost to company ?
 ## Goals
@@ -33,7 +35,6 @@
 - _Recall_ -> It's the number of true positive results divided by the number of all samples that should have been identified as positive
 
 
-![image](https://user-images.githubusercontent.com/46497726/111865493-55ee3280-898d-11eb-84d5-5a23f5d6a70d.png)
 
 
 - _ω ( willingness factor )_ -> A factor to find the best possible change
@@ -44,3 +45,4 @@ The minimization goal is
 
 The dataset used for this research can be found [here](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
+![image](https://user-images.githubusercontent.com/47801727/111938656-7aaeeb00-8af0-11eb-8928-4b17a48775fe.png)
